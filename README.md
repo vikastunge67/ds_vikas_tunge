@@ -11,9 +11,8 @@ using two datasets:
 The goal is to understand how profitability, trade size, risk, and trading activity
 align with or diverge from market sentiment conditions such as **Fear** and **Greed**.
 
-Note- Hyperliquid Historical Trader Data file is larger than 25MB so that we cant upload it in repo.
-download it from here - https://www.kaggle.com/datasets/pradeepjswl/historical-trade-data
-
+**Note- Hyperliquid Historical Trader Data file is larger than 25MB so that we cant upload it in repo.
+download it from here - https://www.kaggle.com/datasets/pradeepjswl/historical-trade-data**
 
 
 ## Data Handling Approach
