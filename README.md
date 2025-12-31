@@ -1,4 +1,4 @@
-# Data Science Assignment – Trader Behavior vs Market Sentiment
+#  Trader Behavior vs Market Sentiment
 
 ## Project Overview
 
